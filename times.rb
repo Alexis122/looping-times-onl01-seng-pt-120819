@@ -1,9 +1,5 @@
-def using_times
-	#your code here
-end
-
-10.times do 
-  puts "Hi! Welcome to my very repetitive program"
+7.times do 
+  puts "Wingardium Leviosa"
 end
 
 
